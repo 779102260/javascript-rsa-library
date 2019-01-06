@@ -1,0 +1,1 @@
+本地打开`test.html`无效，必需在`server`下才能使用es6 module功能

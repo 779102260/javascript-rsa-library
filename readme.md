@@ -18,3 +18,5 @@ let encryptedBase64=linebrk(hex2b64(encrypted), 64);
 console.log(encryptedBase64);
 ```
 注：如果你只有RSA公钥可分解为模数和指数，[在线工具](http://tool.chacuo.net/cryptrsakeyparse)。
+
+在这里测试解密：[点这里](https://jsfiddle.net/779102260/5fyguo0k/8/)
