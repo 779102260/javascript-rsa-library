@@ -1,4 +1,4 @@
->The Library only support rsa encrypt . 
+>The Library only support rsa encrypt , only 10.9Kb and support import!
 >The code author is [Tom Wu](http://www-cs-students.stanford.edu/~tjw/jsbn/) , all i did was just put them together !
 
 此rsa库仅支持加密，由jsbn.js + prng4.js + rng.js + rsa.js + base64.js构成
